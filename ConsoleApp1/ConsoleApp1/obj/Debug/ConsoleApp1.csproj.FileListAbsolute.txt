@@ -1,0 +1,15 @@
+D:\isrpo_spring\lab_1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\isrpo_spring\lab_1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\isrpo_spring\lab_1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\isrpo_spring\lab_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\isrpo_spring\lab_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\isrpo_spring\lab_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\isrpo_spring\lab_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\isrpo_spring\lab_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\429192-9\Desktop\lab_1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\429192-9\Desktop\lab_1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\429192-9\Desktop\lab_1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\429192-9\Desktop\lab_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\429192-9\Desktop\lab_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\429192-9\Desktop\lab_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\429192-9\Desktop\lab_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
